@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #00434f;
+    color:rgb(240, 253, 255);
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 24px;
+    color:rgb(240, 253, 255);
+    max-width: 600px;
+}
+
+.card {
+    background: rgba(101, 188, 255, 0.729);
+    padding: 24px;
+    border-radius: 30px;
+    border: 6px solid rgb(255, 202, 127);
+    max-width: 700px;
+}
