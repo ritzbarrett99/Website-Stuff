@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background: #00434f;
-    color:rgb(240, 253, 255);
+    color:rgb(241, 253, 255);
     margin: 0;
     padding: 40px;
 }
@@ -23,4 +23,5 @@ p {
     border-radius: 30px;
     border: 6px solid rgb(255, 202, 127);
     max-width: 700px;
+
 }
